@@ -1,5 +1,7 @@
 # Leetcode-Study-Plans
 
+# Programming Skills
+
 ## Programming Skills I
 1523. Count Odd Numbers in an Interval Range
 1491. Average Salary Excluding the Minimum and Maximum Salary
@@ -78,6 +80,8 @@
 380. Insert Delete GetRandom O(1)
 622. Design Circular Queue
 729. My Calendar I
+
+# Data Structure
 
 ## Data Structure I
 217. Contains Duplicate	
@@ -227,6 +231,8 @@
 212. Word Search II
 336. Palindrome Pairs
 642. Design Search Autocomplete System
+
+# Algorithm
 
 ## Algorithm I
 704. Binary Search
