@@ -1,4 +1,4 @@
-# Leetcode-Study-Plans
+# Leetcode Study Plans
 
 - [Programming Skills](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#programming-skills)
 - [Data Structure](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#data-structure)
