@@ -3,6 +3,8 @@
 - [Programming Skills](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#programming-skills)
 - [Data Structure](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#data-structure)
 - [Algorithm](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#algorithm)
+- [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#graph-theory)
+- [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/README.md#dynamic-programming)
 
 # Programming Skills
 
