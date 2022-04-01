@@ -745,3 +745,121 @@
 1473. Paint House III
 471. Encode String with Shortest Length
 1240. Tiling a Rectangle with the Fewest Squares
+
+# Binary Search 
+
+## Binary Search I
+704. Binary Search
+374. Guess Number Higher or Lower
+35. Search Insert Position
+852. Peak Index in a Mountain Array
+367. Valid Perfect Square
+1385. Find the Distance Value Between Two Arrays
+69. Sqrt(x)
+744. Find Smallest Letter Greater Than Target
+278. First Bad Version
+34. Find First and Last Position of Element in Sorted Array
+441. Arranging Coins
+1539. Kth Missing Positive Number
+167. Two Sum II - Input Array Is Sorted
+1608. Special Array With X Elements Greater Than or Equal X
+1351. Count Negative Numbers in a Sorted Matrix
+74. Search a 2D Matrix
+1337. The K Weakest Rows in a Matrix
+1346. Check If N and Its Double Exist
+350. Intersection of Two Arrays II
+633. Sum of Square Numbers
+1855. Maximum Distance Between a Pair of Values
+33. Search in Rotated Sorted Array
+153. Find Minimum in Rotated Sorted Array
+
+## Binary Search II
+209. Minimum Size Subarray Sum
+611. Valid Triangle Number
+658. Find K Closest Elements
+1894. Find the Student that Will Replace the Chalk
+300. Longest Increasing Subsequence
+1760. Minimum Limit of Balls in a Bag
+875. Koko Eating Bananas
+1552. Magnetic Force Between Two Balls
+287. Find the Duplicate Number
+1283. Find the Smallest Divisor Given a Threshold
+1898. Maximum Number of Removable Characters
+1870. Minimum Speed to Arrive on Time
+1482. Minimum Number of Days to Make m Bouquets
+1818. Minimum Absolute Sum Difference
+240. Search a 2D Matrix II
+275. H-Index II
+1838. Frequency of the Most Frequent Element
+540. Single Element in a Sorted Array
+222. Count Complete Tree Nodes
+1712. Ways to Split Array Into Three Subarrays
+826. Most Profit Assigning Work
+436. Find Right Interval
+81. Search in Rotated Sorted Array II
+162. Find Peak Element
+154. Find Minimum in Rotated Sorted Array II
+528. Random Pick with Weight
+1508. Range Sum of Sorted Subarray Sums
+1574. Shortest Subarray to be Removed to Make Array Sorted
+1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+1498. Number of Subsequences That Satisfy the Given Sum Condition
+981. Time Based Key-Value Store
+1300. Sum of Mutated Array Closest to Target
+1802. Maximum Value at a Given Index in a Bounded Array
+1901. Find a Peak Element II
+1146. Snapshot Array
+1488. Avoid Flood in The City
+1562. Find Latest Group of Size M
+1648. Sell Diminishing-Valued Colored Balls
+1201. Ugly Number III
+911. Online Election
+
+## Binary Search III
+1213. Intersection of Three Sorted Arrays
+1099. Two Sum Less Than K
+1150. Check If a Number Is Majority Element in a Sorted Array
+1428. Leftmost Column with at Least a One
+702. Search in a Sorted Array of Unknown Size
+1011. Capacity To Ship Packages Within D Days
+1533. Find the Index of the Large Integer
+1060. Missing Element in Sorted Array
+270. Closest Binary Search Tree Value
+1231. Divide Chocolate
+1891. Cutting Ribbons
+1885. Count Pairs in Two Arrays
+1618. Maximum Font to Fit a Sentence in a Screen
+793. Preimage Size of Factorial Zeroes Function
+1198. Find Smallest Common Element in All Rows
+668. Kth Smallest Number in Multiplication Table
+719. Find K-th Smallest Pair Distance
+1751. Maximum Number of Events That Can Be Attended II
+1671. Minimum Number of Removals to Make Mountain Array
+786. K-th Smallest Prime Fraction
+1182. Shortest Distance to Target Color
+1793. Maximum Score of a Good Subarray
+1095. Find in Mountain Array
+4. Median of Two Sorted Arrays
+1235. Maximum Profit in Job Scheduling
+1713. Minimum Operations to Make a Subsequence
+1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
+1847. Closest Room
+363. Max Sum of Rectangle No Larger Than K
+1862. Sum of Floored Pairs
+644. Maximum Average Subarray II
+1889. Minimum Space Wasted From Packaging
+710. Random Pick with Blacklist
+352. Data Stream as Disjoint Intervals
+778. Swim in Rising Water
+378. Kth Smallest Element in a Sorted Matrix
+774. Minimize Max Distance to Gas Station
+1187. Make Array Strictly Increasing
+1062. Longest Repeating Substring
+1044. Longest Duplicate Substring
+718. Maximum Length of Repeated Subarray
+887. Super Egg Drop
+1521. Find a Value of a Mysterious Function Closest to Target
+1157. Online Majority Element In Subarray
+302. Smallest Rectangle Enclosing Black Pixels
+1631. Path With Minimum Effort
+1782. Count Pairs Of Nodes
