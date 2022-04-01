@@ -5,6 +5,7 @@
 - [Algorithm](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#algorithm)
 - [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#graph-theory)
 - [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#dynamic-programming)
+- [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#binary-search)
 
 # Programming Skills
 
